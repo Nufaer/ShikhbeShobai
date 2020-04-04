@@ -20,15 +20,21 @@
         background-repeat: no-repeat;
     }
     .banner h1{
-        font-size:15px;
+        font-size:16px;
     }
-    .btn-custom{
-        font-size:14px;
+    .banner h3{
+        font-size:12px;
     }
-    .banner h5{
-        font-size:14px;
+    .btn-banner{
+        font-size: 12px;
+        font-weight: 600;
+        padding: 2px 8px; 
     }
     
+    .btn-banner:hover{
+        font-size: 14px;
+        font-weight: 700;
+    }
     .hg{
         min-height:94vh;
     }
@@ -46,18 +52,34 @@
         width:30px;
         
     }
-    .step{
+    .our_approach h1 {
+        font-weight: 500;
+        font-size: 28px;
+    }
+    .our_approach h5 {
+        font-size: 16px;
+    } 
+    .step_left{
         width: 70px;
         height: 70px;
-        right: -16%;
+        right: 83%;
+        top: 100%;
+    }
+    .step_right{
+        width: 70px;
+        height: 70px;
+        left: 2%;
+        top: 0%;
     }
     .step p{
-        font-size:26px;
+        font-size: 20px;
         font-weight:600;
+        padding: 0;
     }
     .step h1{
-        font-weight:600;
-        font-size: 35px;
+        font-weight: 700;
+        font-size: 29px;
+        padding: 0;
     }
     .approach .step{
         left:-18%;
@@ -66,6 +88,19 @@
         
         box-shadow: 0px 0px 7px -3px;
         
+    }
+    .our_work h1 {
+        font-weight: 500;
+        font-size: 28px;
+    }
+    .our_work h5 {
+        font-size: 16px;
+    } 
+    .w1w2{
+        margin: 10px;
+    }
+    .w3w4{
+        margin: 10px;
     }
     .container{
         padding-right:20px;
