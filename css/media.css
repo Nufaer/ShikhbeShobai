@@ -38,7 +38,11 @@
 	}
 	.work-content p{
 		font-size: 16px;
-	}
+    }
+    footer p{
+        padding: 8px 0;
+        font-size: 12px;
+    }
 }
 
 @media(max-width:767px){
@@ -130,7 +134,11 @@
 	}
 	.contact h1{
 		font-size: 28px;
-	}
+    }
+    footer p{
+        padding: 6px 0;
+        font-size: 8px;
+    }
 }
 
 @media(max-width:575px){
@@ -259,6 +267,4 @@
     margin-left: 120px;
     margin-top: 37px;
     }
-    
-
 }
