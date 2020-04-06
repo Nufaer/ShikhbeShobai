@@ -142,6 +142,9 @@
 }
 
 @media(max-width:575px){
+    .top-header ul {
+        font-size: 14px;
+    }
     .banner {
         background-size: contain;
         background-repeat: no-repeat;
