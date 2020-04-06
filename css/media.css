@@ -193,10 +193,16 @@
         padding-top: 0px;
     }
     .about_us h1{
-        font-size:30px;
+        font-size: 22px;
     }
     .about_us h5{
-        font-size:12px;
+        font-size: 12px;
+    }
+    p {
+    font-size: 10px;
+    }
+    h5{
+    	font-size: 12px;
     }
     span{
         height:4px;
@@ -205,10 +211,10 @@
     }
     .our_approach h1 {
         font-weight: 500;
-        font-size: 28px;
+        font-size: 22px;
     }
     .our_approach h5 {
-        font-size: 16px;
+        font-size: 12px;
     } 
     .step_left{
         width: 70px;
